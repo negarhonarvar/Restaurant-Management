@@ -1,4 +1,6 @@
-<img src ="https://github.com/user-attachments/assets/e8ffe6c6-f1e7-4d02-9ae9-6486a25bf7cd" width="400">
+<p align = "center">
+ <img src ="https://github.com/user-attachments/assets/e8ffe6c6-f1e7-4d02-9ae9-6486a25bf7cd" width="400">
+</p>
 
 # Tameshk ,A user friendly web app for foodies!
 Tameshk is a web app developed with django and react. This app has four diffrent access levels and at each level offers a usefull set of functionalities.
