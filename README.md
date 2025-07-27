@@ -1,5 +1,5 @@
 <p align = "center">
- <img src ="https://github.com/user-attachments/assets/e8ffe6c6-f1e7-4d02-9ae9-6486a25bf7cd" width="400">
+ <img src ="https://github.com/user-attachments/assets/e8ffe6c6-f1e7-4d02-9ae9-6486a25bf7cd" width="800">
 </p>
 
 # Tameshk ,A user friendly web app for foodies!
